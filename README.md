@@ -34,18 +34,19 @@ The **CGPA Calculator** is a web application designed to help students predict t
   - React.js
   - Vite
   - CSS for styling
-- **Deployment**: Netlify
+- **Deployment**: [Netlify](https://cgpapredict.netlify.app)
+
 
 ## Installation and Setup
 To run the CGPA Calculator locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/cgpa-calculator.git
+   git clone https://github.com/SabidMahmud/cgpa_calculator.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd cgpa-calculator
+   cd cgpa_calculator
    ```
 3. Install the dependencies:
    ```bash
@@ -84,5 +85,5 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 
 ## Contact
 For inquiries, please contact:
-- **Sabid**: [sabid.codes@gamil.com](mailto:sabid.codes@gmail.com)
+- **Email**: [sabid.codes@gamil.com](mailto:sabid.codes@gmail.com)
 - **GitHub Profile**: [github.com/SabidMahmud](https://github.com/SabidMahmud)
