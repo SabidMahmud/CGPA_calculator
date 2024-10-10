@@ -35,6 +35,7 @@ export default function App() {
     console.log("CGPA:", cgpa);
     console.log("Credits Completed:", credit);
     console.log("Courses Details:", courseDetails);
+    console.log("Course Count:", courseCount);
     
 
     const predictedCGPA = calculateCGPA(); // Call the calculation function
