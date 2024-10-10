@@ -78,7 +78,7 @@ Where:
 - **Total Credits** = Total Credits Completed + (Credit for Course 1 + Credit for Course 2 + ... + Credit for Course N)
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GPL3.0 License - see the [LICENSE](./LICENSE) file for details.
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue to discuss improvements, new features, or bugs.
