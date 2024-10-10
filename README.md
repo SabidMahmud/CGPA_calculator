@@ -69,9 +69,7 @@ To run the CGPA Calculator locally, follow these steps:
 ## How it Works
 The application utilizes React's state management to track user inputs and dynamically render additional input fields for each course as specified by the user. Upon submission, the application calculates the predicted CGPA using the formula:
 
-\[
-\text{CGPA} = \frac{\text{Total Grade Points}}{\text{Total Credits}}
-\]
+**CGPA = Total Grade Points / Total Credits**
 
 Where:
 - **Total Grade Points** = (Grade for Course 1 * Credit for Course 1) + (Grade for Course 2 * Credit for Course 2) + ... + (Grade for Course N * Credit for Course N)
